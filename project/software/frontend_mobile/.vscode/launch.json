@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/annas/Desktop/Uni/Part4/Sem1/SOFTENG770/capstone-project-team_26/project/software/frontend_mobile/linux/flutter",
+      "program": "c:/Users/annas/Desktop/Uni/Part4/Sem1/SOFTENG770/capstone-project-team_26/project/software/frontend_mobile/linux/flutter/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
